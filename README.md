@@ -1,7 +1,5 @@
 ## Project Execution
-https://github.com/user-attachments/assets/b586f0d0-cf7e-49be-bf00-3e468327ab64
-
-
+https://github.com/user-attachments/assets/6c286a5e-b4ad-459a-ad15-ce4f73318674
 
 ## To Run project locally
 

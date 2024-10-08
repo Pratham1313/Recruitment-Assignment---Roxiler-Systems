@@ -10,9 +10,9 @@ npm run dev
 ```
 
 ## Backend Setup
-Go to Server folder.
+Go to Backend folder.
 
 ```bash
 npm install
-npm run start
+npm start
 ```

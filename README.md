@@ -1,5 +1,7 @@
-## To Run project locally
+## Project Execution
+https://github.com/user-attachments/assets/8ff86522-319e-49df-994c-39970302e83d
 
+## To Run project locally
 
 ## Frontend Setup
 Go to Frontend folder.

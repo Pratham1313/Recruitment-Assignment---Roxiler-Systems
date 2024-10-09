@@ -1,5 +1,5 @@
 ## Live Link - Deployed on Vercel
-<span style="color: red;">**Note:** Backend may take ~3 seconds to load due to free Vercel plan.</span>
+<span style="color: red;">**Note:** Backend may take 1-2 seconds to load due to free Vercel plan.</span>
 https://roxiler-front.vercel.app/
 
 ## Project Execution

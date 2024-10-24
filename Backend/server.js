@@ -14,8 +14,6 @@ app.use(express.json());
 // Connect to database
 connectDB();
 
-app.use(express.json());
-
 // Routes
 app.use("/api", productRoutes);
 
